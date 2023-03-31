@@ -1,6 +1,6 @@
 # Study checklist for a beginner data scientist
 
-I recently met someone who wants to become a data-scientist, like I did years ago! So I briefly thought about what advice should I give her, and came up with this list of topics a budding data-scientist should learn. 
+I recently met someone who wants to become a data-scientist, like I did years ago! So I came up with this list of topics a budding data-scientist should learn. 
 
 This list is not exhaustive, there are other things you will want to learn as you progress in the field and search for your niche. It also doesn't show you the only possible learning path. It also does not contain learning resources, because the net is full of them. It's just a guide for your self-study until you can guide it yourself.
 
