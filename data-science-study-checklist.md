@@ -23,7 +23,7 @@ This list is not exhaustive, there are other things you will want to learn as yo
 ## Programming
 
 - :small_blue_diamond::small_blue_diamond::small_blue_diamond:Python
-- :small_blue_diamond:Sql
+- :small_blue_diamond:SQL
 
 ## Data formats
 
