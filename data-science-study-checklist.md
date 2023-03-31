@@ -46,7 +46,7 @@ This list is not exhaustive, there are other things you will want to learn as yo
 
 - :small_blue_diamond:Pytorch and/or Tensorflow - python packages for neural networks
 
-- :small_blue_diamond::small_blue_diamond::small_blue_diamond:pip - package manager, you will need it to install all these packages anyway
+- :small_blue_diamond::small_blue_diamond:pip - package manager, you will need it to install all these packages anyway
 
 - :small_blue_diamond:conda package manager and virtual environment
 
